@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-* I'm currently electrical engineering and computer science undergraduate!
+* Motivated and high-achieving CMU MSIN graduate and an early open source contributor
 * Please visit my [portfolio](https://kenchung285.github.io) to see more abouts me!
 * Seeking opportunities to co-work on various projects, feel free to contact me!
 
