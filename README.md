@@ -9,6 +9,20 @@
 * Motivated and high-achieving CMU MSIN graduate and an early open source contributor
 * Seeking opportunities to co-work on various projects, feel free to contact me!
 
+<h3 align="left">Languages:</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,go,py,rust" />
+  </a>
+</p>
+
+<h3 align="left">Tools:</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,git,githubactions,gitlab,kubernetes,linux" />
+  </a>
+</p>
+
 <p align="center">
 <picture>
   <img alt="kenchung285's GitHub stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kenchung285&show_icons=true&theme=tokyonight" />
