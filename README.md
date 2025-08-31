@@ -11,14 +11,6 @@
 
 <p align="center">
 <picture>
-  <source
-    srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=kenchung285&show_icons=true&theme=tokyonight"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=kenchung285&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
   <img alt="kenchung285's GitHub stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kenchung285&show_icons=true&theme=tokyonight" />
 </picture>
 </p>
